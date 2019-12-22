@@ -1,2 +1,2 @@
 # ProjectEuler
-answers for project euler
+Answers for project euler
